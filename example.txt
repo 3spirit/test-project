@@ -2,6 +2,8 @@ We want to check how to work with multiple people in the repository.
 
 Multi line changes
 
+Hi!!!
+
 My changes
 
 Here is a new row
