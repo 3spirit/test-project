@@ -4,4 +4,6 @@ Multi line changes
 
 My changes
 
+Here is a new row
+
 Just an example
